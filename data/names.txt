@@ -1,0 +1,1 @@
+Scientist: pubs:67, name:alex, emp-no:u2154, sallary:500000, school:fcse, degree:cs Laborer: profession:gardener, name:adam, emp-no:543
